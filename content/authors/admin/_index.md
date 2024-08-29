@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Experiments From the Physics Lab
+title: Bhargav Rajyaguru
 
 # Name pronunciation (optional)
 name_pronunciation:
