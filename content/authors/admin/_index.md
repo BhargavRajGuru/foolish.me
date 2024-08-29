@@ -11,7 +11,7 @@ last_name: Rajyaguru
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: https://fonts.gstatic.com/s/e/notoemoji/latest/1f636_200d_1f32b_fe0f/lottie.json
 
 # Is this the primary user of the site?
 superuser: true
