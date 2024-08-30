@@ -50,8 +50,6 @@ sections:
         **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
     design:
       columns: '1'
-      spacing:
-        padding: [0, 0, 0, 0]
   - block: collection
     content:
       title: Recent News
