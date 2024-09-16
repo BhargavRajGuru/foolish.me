@@ -116,3 +116,5 @@ Export your active environment to a new file
 ```bash
 conda env export > environment.yml
 ```
+
+## That's all
