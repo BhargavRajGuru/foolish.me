@@ -17,13 +17,14 @@ tags:
   - Markdown
 ---
 
-## Anaconda cheat sheet
+# Anaconda cheat sheet
+
+## conda environments
 
 This is a simple cheat sheet to set up and start using conda environment
 
 To see all installed packages
 
- 
 ```bash
 conda list
 ```
