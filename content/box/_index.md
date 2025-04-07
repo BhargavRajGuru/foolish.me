@@ -6,7 +6,7 @@ pager: false
 
 The idea of a The Curiosity Box is to tell you about the things I am curious about.
 
-[Getting Started](/post/conda-environment/))
+[Getting Started](foolish.me/post/conda-environment/)
 
 Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's Uses pages!
 
