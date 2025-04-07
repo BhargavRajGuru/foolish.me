@@ -6,6 +6,8 @@ pager: false
 
 The idea of a The Curiosity Box is to tell you about the things I am curious about.
 
+[Getting Started](/post/conda-environment/))
+
 Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's Uses pages!
 
 I often get asked about what software or hardware I use, so this page will serve as a living document and a place to point curious readers to when I get asked.
