@@ -17,4 +17,4 @@ require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.3.1
 )
 
-require github.com/HugoBlox/all-access/blox-all-access v0.0.0-20240506024847-96f2f37c71bb
+//require github.com/HugoBlox/all-access/blox-all-access v0.0.0-20240506024847-96f2f37c71bb
