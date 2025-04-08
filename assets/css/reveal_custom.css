@@ -1,7 +1,0 @@
-.absolute {
-    position: absolute;
-  }
-  
-.reveal .slide {
-    position: relative; /* Needed for absolute positioning inside slides */
-  }
