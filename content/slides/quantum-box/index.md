@@ -23,16 +23,11 @@ slides:
 
 test of images
 
-<!-- Top image -->
-<p style="text-align: center;">
-  <img src="image1.png" alt="Top Image" style="width: 60%;">
-</p>
+image1.png
 
-<!-- Two images underneath -->
-<div style="display: flex; justify-content: center; gap: 2em;">
-  <img src="image2.png" alt="Bottom Left Image" style="width: 40%;">
-  <img src="image3.png alt="Bottom Right Image" style="width: 40%;">
-</div>
+image2.png
+
+image3.png
 
 ---
 
