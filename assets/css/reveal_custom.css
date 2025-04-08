@@ -2,6 +2,6 @@
     position: absolute;
   }
   
-  .reveal .slide {
+.reveal .slide {
     position: relative; /* Needed for absolute positioning inside slides */
   }
