@@ -23,11 +23,16 @@ slides:
 
 test of images
 
-![](image1.png){.absolute top=200 left=0 width="350" height="300"}
+<!-- Top image -->
+<p style="text-align: center;">
+  <img src="image1.png" alt="Top Image" style="width: 60%;">
+</p>
 
-![](image2.png){.absolute top=50 right=50 width="450" height="250"}
-
-![](image3.png){.absolute bottom=0 right=50 width="300" height="300"}
+<!-- Two images underneath -->
+<div style="display: flex; justify-content: center; gap: 2em;">
+  <img src="image2.png" alt="Bottom Left Image" style="width: 40%;">
+  <img src="image3.png alt="Bottom Right Image" style="width: 40%;">
+</div>
 
 ---
 
