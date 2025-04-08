@@ -1,5 +1,7 @@
-![](image1.png){.absolute top=200 left=0 width="350" height="300"}
-
-![](image2.png){.absolute top=50 right=50 width="450" height="250"}
-
-![](image3.png){.absolute bottom=0 right=50 width="300" height="300"}
+.absolute {
+    position: absolute;
+  }
+  
+  .reveal .slide {
+    position: relative; /* Needed for absolute positioning inside slides */
+  }
