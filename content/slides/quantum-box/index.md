@@ -21,11 +21,6 @@ slides:
 
 ## Features
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
-
 test of images
 
 ![](image1.png){.absolute top=200 left=0 width="350" height="300"}
