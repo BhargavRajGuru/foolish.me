@@ -23,6 +23,12 @@ slides:
 
 test of images
 
+<div style="display: flex; gap: 20px;">
+  <img src="image1.png" alt="Image 1" style="width: 30%;">
+  <img src="image2.png" alt="Image 2" style="width: 30%;">
+  <img src="image3.png" alt="Image 3" style="width: 30%;">
+</div>
+
 ---
 
 ## Controls
