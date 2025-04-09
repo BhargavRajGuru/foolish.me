@@ -13,7 +13,7 @@
   {{ partial "components/sidebar.html" (dict "context" . "no_sidebar" true) }}
   {{ partial "components/toc.html" . }}
   <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
-    <main class="w-full min-w-0 max-w-7xl px-6 pt-4 md:px-12">
+    <main class="w-full min-w-0 max-w-full px-6 pt-4 md:px-12">
 
       {{ if .Params.show_breadcrumb }}
       <div class="mb-4">
@@ -150,7 +150,7 @@
       </div>
       {{ end }}
 
-      <div class="prose prose-slate lg:prose-xl dark:prose-invert w-full max-w-5xl">
+      <div class=" w-full max-w-full prose prose-slate lg:prose-xl dark:prose-invert">
         {{ .Content }}
       </div>
 
