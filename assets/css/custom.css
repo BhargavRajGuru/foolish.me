@@ -4,3 +4,8 @@
 .max-w-screen-2xl {
     max-width: 1536px;
   }
+
+/* Be careful before using this as it is solely product of my thinking and struggle */
+.max-w-screen-3xl {
+    max-width: 1600px;
+  }
