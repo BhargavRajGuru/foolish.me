@@ -1,0 +1,6 @@
+/* custom.css */
+
+/* Custom utility to mimic Tailwind's max-w-screen-2xl */
+.max-w-screen-2xl {
+    max-width: 1536px;
+  }
