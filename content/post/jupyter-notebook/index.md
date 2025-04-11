@@ -6,7 +6,7 @@ date: 2025-04-11
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: Image created by Scriberia for The Turing Way community (CC-BY license)'
 
 authors:
   - admin
