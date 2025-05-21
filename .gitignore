@@ -5,3 +5,7 @@
 resources/
 public/
 jsconfig.json
+
+.hugo_build.lock
+go.sum
+hugo_stats.json
