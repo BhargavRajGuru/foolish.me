@@ -1,0 +1,45 @@
+---
+title: Thermionic emission driven resistive switching behaviour in Ca and Sr doped
+  YMnO3 thin film devices
+authors:
+- Manan Gal
+- Keval Gadani
+- Davit Dhruv
+- Zalak Joshi
+- Alpa Zankat
+- Bhargav Rajyaguru
+- A.D. Joshi
+- K. Asokan
+- P.S. Solanki
+- N.A. Shah
+date: '2019-12-01'
+publishDate: '2025-10-25T14:41:32.272699Z'
+publication_types:
+- article-journal
+publication: '*Solid State Communications*'
+doi: 10.1016/j.ssc.2019.113737
+abstract: In this communication, we report the resistive switching (RS) behavior of
+  pulsed laser deposition (PLD) grown with 5% Ca and Sr doped YMnO3 [referred with
+  general formula as Y0.95A0.05MnO3 (YAMO), where A ¼ Ca or Sr; YCMO if A is Ca and
+  YSMO if A ¼ Sr] on (100) single crystalline Nb:SrTiO3 (SNTO) substrates. The thickness
+  of both the YCMO and YSMO thin film devices were ~300 nm. The hysteretic current–voltage
+  (I–V) characteristics were measured at 100 and 300 K across the YAMO/SNTO interfaces
+  using current perpendicular to plane (CPP) transport measurement geometry. Both
+  these devices exhibit distinct RS behaviours and these are highly influenced by
+  the temperature, ionic size of dopants (i.e. Ca and Sr) and structural disorder
+  as well as lattice mismatch between the films and substrates. While the YCMO/SNTO
+  device exhibits an effective RS behavior in the reverse bias mode, the YSMO/SNTO
+  device in the forward bias mode. The current compliance effects were observed for
+  both the thin film devices and in both the bias modes and their modifications with
+  different parameters. These results are discussed in the light of oxygen vacancies,
+  their distribution and mobility. Thermionic emission model has been employed to
+  understand the charge conduction mechanism across the YAMO/SNTO junctions. The variations
+  in the barrier height has been obtained by fitting the experimental data of I–V
+  with different temperatures, resistance states, dopants and bias modes and discussed
+  in detail. Retention behaviours in the context of switching cycles and time duration
+  have been studied at 100 and 300 K for the verification of device stability, reliability
+  and reproducibility.
+links:
+- name: URL
+  url: https://linkinghub.elsevier.com/retrieve/pii/S003810981830111X
+---
