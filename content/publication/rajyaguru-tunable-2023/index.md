@@ -1,0 +1,44 @@
+---
+title: 'Tunable resistive nature of LaMnO3 / Nd0.7Sr0.3MnO3 interfaces: Role of swift
+  heavy ion irradiation'
+authors:
+- Bhargav Rajyaguru
+- Keval Gadani
+- Davit Dhruv
+- V. Ganesan
+- K. Asokan
+- N.A. Shah
+- P.S. Solanki
+date: '2023-07-01'
+publishDate: '2026-01-04T23:10:13.918072Z'
+publication_types:
+- article-journal
+publication: '*Ceramics International*'
+doi: 10.1016/j.ceramint.2023.04.242
+abstract: In the present communication, high crystalline quality LaMnO3/Nd0.7Sr0.3MnO3/SrTiO3
+  (LMO/NSMO/STO) structures were fabricated using low cost chemical solution deposition
+  (CSD) technique to perform swift heavy ion (SHI) irradiation using 100 MeV O+7 ions.
+  X–ray diffraction (XRD) θ–2θ, XRD φ–scan and XRD ω–scan results show a single phase
+  nature having finite and ion fluence influenced strain state, four–fold lattice
+  symmetry with epitaxial growth and an effective influence of ion fluence on the
+  crystalline granular structure of LMO/NSMO/ STO structure. Atomic force microscopy
+  (AFM) images suggest an effect of ion fluence on the surface morphology through
+  the creation of defects and local annealing effect. Zero field cooled (ZFC) protocol
+  based LMO/NSMO interface resistivity suggests that transport nature of the LMO/NSMO
+  interface of all studied LMO/NSMO/STO structures is strongly governed by lattice
+  strain between LMO//NSMO layers and STO substrate, strain across LMO and NSMO manganite
+  layers, crystalline granular structure, grain size, grain boundary density and grain
+  boundary nature of the LMO and NSMO manganite thin layers. ZFC protocol followed
+  by field cooled cooling (FCC) and field cooled warming (FCW) protocols for the realization
+  of LMO/NSMO interface resistivity behaviors have been understood on the bases of
+  freezing and trapping of tiny high temperature high resistive insulating clusters
+  within the coexisting low temperature low resistive metallic phase fraction. Observed
+  LMO/NSMO interface resistivity behaviors have been understood using the percolation
+  model fits to the recorded experimental LMO/NSMO interface resistivity data in addition
+  to irradiation influences. Obtained fitting parameters have been discussed in detail
+  based on their variations with different employed resistivity measurement protocols
+  for all pristine and irradiated LMO/NSMO/STO structures.
+links:
+- name: URL
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0272884223012385
+---
